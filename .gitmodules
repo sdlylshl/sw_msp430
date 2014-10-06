@@ -1,0 +1,9 @@
+[submodule "DK5438"]
+	path = DK5438
+	url = git@github.com:sdlylshl/DK5438_example
+[submodule "STR_G10"]
+	path = STR_G10
+	url = git@github.com:sdlylshl/gprs_m72d.git
+[submodule "M22"]
+	path = M22
+	url = git@github.com:sdlylshl/gprs_m22.git
